@@ -1,0 +1,10 @@
+"name": "EquipmentCompatibility",
+  "version": "0.0.1",
+  "title": "Equipment Compatibility",
+  "author": "Glendening",
+  "email": "",
+  "homepage": "https://github.com/Glendening/Equipment-Compatibility",
+  "contact": "",
+  "description": "Makes equipment and grids from various mods cross compatible with one another",
+  "factorio_version": "1.0",
+  "dependencies": ["base >= 1.0.0", "? SchallTankPlatoon >= 1.0.2", "? SchallAmmoTurrets >= 0.18.2", "? SchallAlienTech >= 1.0.2", "? SchallArmouredTrain", "? Krastorio2 >=1.0.7", "? GunEquipment >=0.0.12", "? bobvehicleequipment >=1.0.1", "? SpidertronEngineer >=1.6.11", "? spidertrontiers >=0.2.11", "? RampantArsenal >=1.0.0" ]
